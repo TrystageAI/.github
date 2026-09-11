@@ -6,9 +6,9 @@
 
 We build practical assistants, shared knowledge, and operational tooling around Trystage's Minecraft server ecosystem.
 
-[![NekoKnowledge](https://img.shields.io/badge/NekoKnowledge-Knowledge%20Base-7ee787?style=for-the-badge)](https://github.com/TrystageAI/NekoKnowledge)
-[![Nyaliath](https://img.shields.io/badge/Nyaliath-Velocity%20Plugin-58a6ff?style=for-the-badge)](https://github.com/TrystageAI/Nyaliath)
-[![PromptEngineering](https://img.shields.io/badge/PromptEngineering-Agent%20Prompts-ff7b72?style=for-the-badge)](https://github.com/TrystageAI/PromptEngineering)
+![NekoKnowledge](https://img.shields.io/badge/NekoKnowledge-Knowledge%20Base-7ee787?style=for-the-badge)
+![Nyaliath](https://img.shields.io/badge/Nyaliath-Velocity%20Plugin-58a6ff?style=for-the-badge)
+![PromptEngineering](https://img.shields.io/badge/PromptEngineering-Agent%20Prompts-ff7b72?style=for-the-badge)
 
 </div>
 
@@ -16,13 +16,15 @@ We build practical assistants, shared knowledge, and operational tooling around 
 
 TrystageAI is the AI and automation workspace for Trystage. It hosts shared knowledge, assistant prompts, server tooling, and experiments that support both internal workflows and player-facing systems.
 
+The repositories below are currently **private** and intended for Trystage members and maintained contributors.
+
 ## Repositories
 
 | Repository | Description |
 |---|---|
-| [NekoKnowledge](https://github.com/TrystageAI/NekoKnowledge) | Shared knowledge base used by Trystage's AI assistants. |
-| [Nyaliath](https://github.com/TrystageAI/Nyaliath) | A Velocity chat recording plugin for server staff. |
-| [PromptEngineering](https://github.com/TrystageAI/PromptEngineering) | Prompts and agent engineering for Trystage AI assistants. |
+| `NekoKnowledge` | Shared knowledge base used by Trystage's AI assistants. |
+| `Nyaliath` | A Velocity chat recording plugin for server staff. |
+| `PromptEngineering` | Prompts and agent engineering for Trystage AI assistants. |
 
 ## Focus Areas
 
